@@ -1,15 +1,25 @@
 # Northern Health EMR
-This organisation is owned by the Northern Health EMR team. The main purpose of our repo is to share and collaborate on CCL (Cerner Command Language) code. If you are from another Cerner site and wish to collaborate please reach out via GitHub.
 
+> **To request access:** contact an organisation owner — currently **Rory** or **Aaron**.
 
+---
 
-<!--
+## 👋 About this org
 
-**Here are some ideas to get you started:**
+This organisation is home to the Northern Health EMR team's shared codebase — a growing collection of tools built on and around **Cerner Millennium**.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We work across:
+
+- 🧩 **Custom MPage components** — interactive JavaScript modules embedded in Cerner Workflow MPages
+- 📋 **CCL development** — Cerner Command Language executables, scripts, and report queries
+- ⚙️ **Workflow automation** — EKS rules, order management integrations, and interface tooling
+
+---
+
+## 🤝 Collaborate with us
+
+From another Cerner site? We're always open to collaboration and knowledge sharing across the community. Reach out via GitHub and let's connect.
+
+---
+
+*Maintained by the Northern Health EMR team · Epping, VIC*
