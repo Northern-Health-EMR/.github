@@ -18,7 +18,7 @@ We work across:
 
 ## 🤝 Collaborate with us
 
-From another Cerner site? We're always open to collaboration and knowledge sharing across the community. Reach out via GitHub and let's connect.
+From another Cerner site? We're always open to collaboration and knowledge sharing across the community. Head to the [Discussions](../../discussions) tab and start a conversation — we'd love to hear from you.
 
 ---
 
