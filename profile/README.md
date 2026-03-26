@@ -18,7 +18,7 @@ We work across:
 
 ## 🤝 Collaborate with us
 
-From another Cerner site? We're always open to collaboration and knowledge sharing across the community. Head to the [Discussions](../../discussions) tab and start a conversation — we'd love to hear from you.
+From another Cerner site? We're always open to collaboration and knowledge sharing across the community. Head to our [Discussions board](https://github.com/orgs/Northern-Health-EMR/discussions) and start a conversation — we'd love to hear from you.
 
 ---
 
